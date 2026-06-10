@@ -15,7 +15,7 @@ ZenNotes is a **file-based** markdown notes app made for focus and deep work. Ev
 ## Try it
 
 - [x] Write your first note
-- [ ] Link to [[another note]]
+- [x] Link to [[another note]]
 
 > [!tip]
 > Press the + button in the sidebar to create a new note. Your changes save automatically.
