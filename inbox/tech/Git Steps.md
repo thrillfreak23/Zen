@@ -3,7 +3,7 @@
 
 
 ##### My git-steps how-to file
-#git
+#git #howto
 
 git init
 git branch -M main
