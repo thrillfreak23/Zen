@@ -6,4 +6,4 @@
   > *analysis:* BE 1.pl.NOM 3s.CARITIVE ruin.PASS.pl
   > *translation:* We are lost without her
 
-#conlang #Jagarôth #lexicon 
+#conlang #lexicon 

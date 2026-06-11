@@ -11,4 +11,4 @@ category: Custom
   > *analysis:* 
   > *translation:* 
 {{cursor}}
-#conlang #Jagarôth #lexicon
+#conlang #lexicon

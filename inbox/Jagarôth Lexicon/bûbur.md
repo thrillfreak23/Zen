@@ -6,4 +6,4 @@
   > *analysis:* strike.FIN.3ss mouth.2s.ACC
   > *translation:* She smacks your mouth
 
-#conlang #Jagarôth #lexicon
+#conlang #lexicon

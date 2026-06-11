@@ -6,4 +6,4 @@
   > *analysis:* BE dog.1s.NOM
   > *translation:* It's my dog
 
-#conlang #Jagarôth #lexicon
+#conlang #lexicon
