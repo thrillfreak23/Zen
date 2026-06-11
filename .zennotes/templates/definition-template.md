@@ -7,7 +7,7 @@ category: Custom
   > [!note]
   > *definition:* 
   > *part of speech:* 
-  > *example: 
+  > *example:* 
   > *analysis:* 
   > *translation:* 
 {{cursor}}
