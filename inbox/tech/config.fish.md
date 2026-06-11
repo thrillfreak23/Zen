@@ -1,10 +1,11 @@
 # config.fish
 2026-06-11
 #dotfile
+
+- ***sh*** herebelow really means ***fish*** but there's no syntax highlighting for ***fish***
+```sh
 if status is-interactive
 # Commands to run in interactive sessions can go here
-
-```sh
 source ~/.alias
 
 fish_vi_cursor
