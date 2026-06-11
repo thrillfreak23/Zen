@@ -1,5 +1,8 @@
-# Quick Note 2026-06-10 1840
-### My git-steps how-to file
+# Git steps - git howto
+
+
+
+ My git-steps how-to file
 #git
 git init
 git branch -M main
@@ -22,7 +25,7 @@ after creating a new empty repo "saint-eyeball" on the github website:
 9. can be just ***git push*** after the first time if the name "main" is used
 
 ## The Basic Process after inital creation
-0. from the Linux command line
-1. git add .
-2. git commit -m "Manual Update"
-3. git push 
+1. from the Linux command line
+2. git add .
+3. git commit -m "Manual Update"
+4. git push 
