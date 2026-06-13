@@ -1,6 +1,6 @@
 # config.fish
 2026-06-11
-#dotfile
+#dotfile #fish
 
 - ***sh*** herebelow really means ***fish*** but there's no syntax highlighting for ***fish***
 ```sh
