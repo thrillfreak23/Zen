@@ -5,5 +5,8 @@
   > *example:* î mem mebelûr tak haham ::
   > *analysis:* BE 1.(s).(NOM) girl.GEN demonstrative mother.(NOM)
   > *translation:* I am that girl's mother.
+> *example:* hahamâlem mebelôdh tak ::
+> *analysis:* mother.FIN.1
+
 
 #conlang #lexicon
