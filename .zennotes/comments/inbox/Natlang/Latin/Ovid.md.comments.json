@@ -33,6 +33,28 @@
       "createdAt": 1781443175253,
       "updatedAt": 1781443175253,
       "resolvedAt": null
+    },
+    {
+      "id": "ac06b3b5-f442-495b-9ed7-7df4ec496ad7",
+      "notePath": "inbox/Natlang/Latin/Ovid.md",
+      "anchorStart": 1033,
+      "anchorEnd": 1039,
+      "anchorText": "spisso",
+      "body": "line 26. spissus,a,um :: thick, dense; opposed here to liquidum, fluid, flowing.",
+      "createdAt": 1781443391195,
+      "updatedAt": 1781443391195,
+      "resolvedAt": null
+    },
+    {
+      "id": "db93f18d-6942-4687-8dea-aecba6c84e2e",
+      "notePath": "inbox/Natlang/Latin/Ovid.md",
+      "anchorStart": 1040,
+      "anchorEnd": 1048,
+      "anchorText": "secrevit",
+      "body": "line 26. secerno :: 3rd conj. to put apart (two things)",
+      "createdAt": 1781443465923,
+      "updatedAt": 1781443465923,
+      "resolvedAt": null
     }
   ]
 }
