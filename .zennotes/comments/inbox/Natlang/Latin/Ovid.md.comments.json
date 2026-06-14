@@ -55,6 +55,28 @@
       "createdAt": 1781443465923,
       "updatedAt": 1781443465923,
       "resolvedAt": null
+    },
+    {
+      "id": "edb34897-104d-4557-9d14-eeef20798744",
+      "notePath": "inbox/Natlang/Latin/Ovid.md",
+      "anchorStart": 1096,
+      "anchorEnd": 1102,
+      "anchorText": "exemit",
+      "body": "line 27. from eximo, from ex + emo, to select out, to take out",
+      "createdAt": 1781443559625,
+      "updatedAt": 1781443559625,
+      "resolvedAt": null
+    },
+    {
+      "id": "188ea71c-f4ce-4691-8983-1020fd9ccb9d",
+      "notePath": "inbox/Natlang/Latin/Ovid.md",
+      "anchorStart": 1079,
+      "anchorEnd": 1086,
+      "anchorText": "evolvit",
+      "body": "line 27. evolvere: literally, to roll out/forth, to unroll; figuratively, to reject, remove, evict, eject",
+      "createdAt": 1781443718503,
+      "updatedAt": 1781443718503,
+      "resolvedAt": null
     }
   ]
 }
