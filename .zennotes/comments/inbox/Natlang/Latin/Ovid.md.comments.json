@@ -110,6 +110,28 @@
       "createdAt": 1781444064455,
       "updatedAt": 1781444064455,
       "resolvedAt": null
+    },
+    {
+      "id": "355dbbb9-d1ba-492b-b0d9-14e50a8709a1",
+      "notePath": "inbox/Natlang/Latin/Ovid.md",
+      "anchorStart": 1274,
+      "anchorEnd": 1347,
+      "anchorText": "densior his tellus elementaque grandia traxit et pressa est gravitate sua",
+      "body": "denser than these, the land drew the heavy elements and they were squeezed by its gravity.",
+      "createdAt": 1781444266405,
+      "updatedAt": 1781444266405,
+      "resolvedAt": null
+    },
+    {
+      "id": "665610a1-9ef5-43a9-98a4-72586698c815",
+      "notePath": "inbox/Natlang/Latin/Ovid.md",
+      "anchorStart": 1393,
+      "anchorEnd": 1401,
+      "anchorText": "coercuit",
+      "body": "coerceo, surround, encompass",
+      "createdAt": 1781444327551,
+      "updatedAt": 1781444327551,
+      "resolvedAt": null
     }
   ]
 }
