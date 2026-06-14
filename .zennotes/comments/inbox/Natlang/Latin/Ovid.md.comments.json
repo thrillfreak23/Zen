@@ -132,6 +132,17 @@
       "createdAt": 1781444327551,
       "updatedAt": 1781444327551,
       "resolvedAt": null
+    },
+    {
+      "id": "a7138234-0182-41ae-8c24-cfe54ffe2000",
+      "notePath": "inbox/Natlang/Latin/Ovid.md",
+      "anchorStart": 1469,
+      "anchorEnd": 1475,
+      "anchorText": "secuit",
+      "body": "cut, cut off; secare: to cut, cut off; seco, secare, secui, secta",
+      "createdAt": 1781444712318,
+      "updatedAt": 1781444756147,
+      "resolvedAt": null
     }
   ]
 }
