@@ -7,9 +7,31 @@
       "anchorStart": 937,
       "anchorEnd": 978,
       "anchorText": "Hanc deus et melior litem natura diremit.",
-      "body": "Both Deus (\"quisquis deum...\" whoever of the gods it was...) and melior natura (nature meaning natural processes; melior meaning better than the chaos that came before) are what assembled the world. Thus the Stoics who demanded a Demiurge were satisfied, and the Epicureans too, who said it was Nature. Ovid had it both ways.",
+      "body": "Line 24. Both Deus (\"quisquis deum...\" whoever of the gods it was...) and melior natura (nature meaning natural processes; melior meaning better than the chaos that came before) are what assembled the world. Thus the Stoics who demanded a Demiurge were satisfied, and the Epicureans too, who said it was Nature. Ovid had it both ways.",
       "createdAt": 1781298961103,
-      "updatedAt": 1781299006647,
+      "updatedAt": 1781443029790,
+      "resolvedAt": null
+    },
+    {
+      "id": "2787688d-9d07-40af-897f-c2209f6b7a6f",
+      "notePath": "inbox/Natlang/Latin/Ovid.md",
+      "anchorStart": 61,
+      "anchorEnd": 65,
+      "anchorText": "fert",
+      "body": "Line 4. fert here with definition 10 from wiktionary, to incite, to impel, to move",
+      "createdAt": 1781442976741,
+      "updatedAt": 1781443009883,
+      "resolvedAt": null
+    },
+    {
+      "id": "30ca4c47-ed0e-49f1-b05d-4582bf1be6da",
+      "notePath": "inbox/Natlang/Latin/Ovid.md",
+      "anchorStart": 1006,
+      "anchorEnd": 1014,
+      "anchorText": "abscidit",
+      "body": "Line 25. 3rd indic. act. perfect tense. Cut away (with an instrument). Figuratively, banish, separate, expel.",
+      "createdAt": 1781443175253,
+      "updatedAt": 1781443175253,
       "resolvedAt": null
     }
   ]
