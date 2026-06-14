@@ -77,6 +77,39 @@
       "createdAt": 1781443718503,
       "updatedAt": 1781443718503,
       "resolvedAt": null
+    },
+    {
+      "id": "1eb3f92f-a0b6-4815-9871-ccf58e298a74",
+      "notePath": "inbox/Natlang/Latin/Ovid.md",
+      "anchorStart": 1111,
+      "anchorEnd": 1121,
+      "anchorText": "dissociata",
+      "body": "disjoined, dissociated, ill-sorted (in their places)",
+      "createdAt": 1781443856282,
+      "updatedAt": 1781443856282,
+      "resolvedAt": null
+    },
+    {
+      "id": "921e9444-a5c9-4194-9aab-7697484aa572",
+      "notePath": "inbox/Natlang/Latin/Ovid.md",
+      "anchorStart": 1191,
+      "anchorEnd": 1198,
+      "anchorText": "emicuit",
+      "body": "\"appeared suddenly\" from emicare, perfect tense usually emicui.",
+      "createdAt": 1781443961298,
+      "updatedAt": 1781443961298,
+      "resolvedAt": null
+    },
+    {
+      "id": "14e997cf-1fbd-4af1-8d09-5ed11b6ab567",
+      "notePath": "inbox/Natlang/Latin/Ovid.md",
+      "anchorStart": 1228,
+      "anchorEnd": 1232,
+      "anchorText": "arce",
+      "body": "from arx, citadel. here the light from the sky takes its place in the highest regions overhead.",
+      "createdAt": 1781444064455,
+      "updatedAt": 1781444064455,
+      "resolvedAt": null
     }
   ]
 }
